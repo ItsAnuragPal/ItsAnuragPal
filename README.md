@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Anurag Pal
+- 👀 I’m interested in full-stack development, software engineering, and exploring modern technologies.
+- 🌱 I’m currently learning JavaScript frameworks, and database management.
+- 💞️ I’m looking to collaborate on open-source projects, web development challenges, and innovative software solutions.
+- 📫 How to reach me: mitanuragpal@gmail.com | LinkedIn: https://www.linkedin.com/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once tried to debug my code for hours, only to realize it was a missing semicolon. Now, we're best friends.
+- 🎯 My goal: To become a proficient software engineer and contribute to impactful projects.
+- 🚀 Recent project: Developing a Book Catalog with Reviews system using full-stack technologies.
