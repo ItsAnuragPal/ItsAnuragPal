@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once tried to debug my code for hours, only to realize it was a missing semicolon. Now, we're best friends.
 - 🎯 My goal: To become a proficient software engineer and contribute to impactful projects.
-- 🚀 Recent project: Developing a Book Catalog with Reviews system using full-stack technologies.
+- 🚀 Recent project: Developing a Book Catalog with Reviews system using full-stack technologies, and also Developing a learning platform called EduSpark.
